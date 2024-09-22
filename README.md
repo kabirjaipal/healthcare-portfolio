@@ -77,7 +77,3 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 For any inquiries, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
 
 Thank you for visiting the Healthcare Portfolio! 🎉
-
-```
-
-```
